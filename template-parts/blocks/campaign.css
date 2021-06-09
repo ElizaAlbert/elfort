@@ -1,0 +1,14 @@
+.content-block {
+  background-color: blue;
+}
+
+.content-block {
+  padding: 50px 0;
+  margin-top: 0px;
+}
+
+.navbar-nav,
+.navbar > .container .navbar-brand {
+  font-family: Dosis;
+  text-transform: uppercase;
+}
